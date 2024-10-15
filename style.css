@@ -1,0 +1,18 @@
+img {
+    height: 450px;
+    width: 450px;
+}
+
+p {
+    text-align: Left; 
+}
+
+body {
+    background-color:tomato;
+}
+
+table {
+    border-color:black;
+    border-style:groove;
+    border-size: 1px;
+}
